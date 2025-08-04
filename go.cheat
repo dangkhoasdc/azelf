@@ -1,0 +1,4 @@
+% go, language
+
+# download and adds required packages
+go mod tidy

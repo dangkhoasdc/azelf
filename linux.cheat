@@ -1,0 +1,4 @@
+% linux
+
+# remove all dot files & folders
+rm -r .[^.]*

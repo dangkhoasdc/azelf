@@ -2,3 +2,12 @@
 
 # remove all dot files & folders
 rm -r .[^.]*
+
+# apply from chezmoi source to target
+chezmoi apply
+
+# update config from remote
+chezmoi update
+
+# add config to chezmoi source
+chezmoi re-add

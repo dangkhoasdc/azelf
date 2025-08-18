@@ -11,3 +11,6 @@ chezmoi update
 
 # add config to chezmoi source
 chezmoi re-add
+
+# list processes running on a given port
+lsof -i :<port>

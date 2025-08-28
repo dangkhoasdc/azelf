@@ -1,0 +1,4 @@
+% python
+
+# conda remove env
+conda env remove --name <env_name>
